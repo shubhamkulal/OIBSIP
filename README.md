@@ -11,7 +11,7 @@ The dataset used for training and testing the model contains the following featu
 - **Newspaper**: Advertising spending on newspaper
 - **Sales**: Sales value (target variable)
 
-The data is provided in a CSV file named `advertising.csv`.
+The data is provided in a CSV file named `Advertising.csv`.
 
 ## Model Selection
 
