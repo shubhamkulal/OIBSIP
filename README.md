@@ -32,13 +32,13 @@ To use the sales prediction model, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Ensure you have Python and the required libraries (pandas, scikit-learn) installed.
-3. Run the `sales_prediction.py` script to train the model and evaluate its performance.
+3. Run the `SALES_PREDICTION_USING_PYTHON.ipynb` script to train the model and evaluate its performance.
 4. The script will display the Mean Squared Error and R-squared values as evaluation metrics.
 5. You can also modify the script to load your own sales data for prediction.
 
 ## Requirements
 
-- Python 3.x
+- Jupyter Notebook(Python 3)
 - pandas
 - scikit-learn
 
